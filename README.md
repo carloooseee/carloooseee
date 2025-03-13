@@ -1,3 +1,4 @@
+<img src="banner.jpg" alt="Github Banner" style="width: 100%">
 # Hello World! I'm Carlos, a Computer Science Student
 <p>💻 I code not for fun</p>
 <p>💪🏻 goes to the gym occasionally</p>
