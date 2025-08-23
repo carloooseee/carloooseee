@@ -1,11 +1,5 @@
-<img src="banner.jpg" alt="Github Banner" style="width: 100%">
-
 # Hello World! I'm Carlos, a Computer Science Student
-<p>💻 I code not for fun</p>
-<p>💪🏻 goes to the gym occasionally</p>
-<p>🌱 I’m currently learning database integration</p>
-<p>👯 I’m looking to collaborate on anything, just ask me!</p>
-<p>💬 Ask me about my bench PR</p>
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=carloooseee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
