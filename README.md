@@ -14,7 +14,7 @@
 
 I am a third-year Computer Science student passionate about building scalable software and exploring the intersection of design and logic. I am currently honing my skills in full-stack development and machine learning concepts.
 
-- 🔭 **I’m currently working on:** [Your Project Name Here]
+- 🔭 **I’m currently working on:** My Career!
 - 🌱 **I’m currently learning:** Advanced Data Structures & Cloud Architecture
 - 💼 **I’m open to:** Internships and collaborative research projects
 
