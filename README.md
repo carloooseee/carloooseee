@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Carlos! 👋
+# Hello, I'm Carlos!
 
 ### 💻 Technical Arsenal
 
