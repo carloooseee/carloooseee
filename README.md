@@ -2,8 +2,6 @@
 
 <img src="https://www.gifcen.com/wp-content/uploads/2022/10/anime-gif-7.gif" height="150" /> <img src="https://www.gifcen.com/wp-content/uploads/2022/09/anime-gif-13.gif" height="150" /> <img src="https://www.icegif.com/wp-content/uploads/2024/09/anime-icegif-7.gif" height="150" />
 
-# Hello, I'm Carlos!
-
 ### 💻 Technical Arsenal
 
 | **Category** | **Technologies** |
