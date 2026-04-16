@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.gifcen.com/wp-content/uploads/2022/10/anime-gif-7.gif" width="100%" />
+<img src="https://www.gifcen.com/wp-content/uploads/2022/10/anime-gif-7.gif" width="30%" />
 
 # Hello, I'm Carlos!
 
