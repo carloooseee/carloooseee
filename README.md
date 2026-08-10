@@ -14,7 +14,7 @@
 | **AI, ML & Data** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) ![ONNX Runtime Web](https://img.shields.io/badge/ONNX_Runtime_Web-00599C?style=flat-square&logo=onnx&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=chartdotjs&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white) |
 
-Check out my resume &rarr; <a href="./Laran_Resume-AUG2026.pdf"><img src="https://img.shields.io/badge/View_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" align="center" /></a>
+[![Resume](https://img.shields.io/badge/Check_out_my_resume_→-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Laran_Resume-AUG2026.pdf)
 
 </div>
 
