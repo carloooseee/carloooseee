@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.gifcen.com/wp-content/uploads/2022/10/anime-gif-7.gif" height="150" /> <img src="https://www.gifcen.com/wp-content/uploads/2022/09/anime-gif-13.gif" height="150" /> <img src="https://www.icegif.com/wp-content/uploads/2024/09/anime-icegif-7.gif" height="150" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFkOGt0ZTJyZ2pzejN0MTBoMzdiNTNrczBqdGcwdDdwbmo0YTlpcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3nyIj1d1igD4SGhVvu/giphy.gif" height="150" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY214bnBoMHBhdWhud3d5N2I0eHBqYjZsMTIxYmhobmFpbjRjcWV0biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4eTuzu8xIEqdDfPu9J/giphy.gif" height="150" /> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDE4ejBrNmVtNDZpaTc2cW5lOXZxYnVqa2VldHl4d25kZHhqZWYybyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7S5mOq10DXZ4Eg4IDH/giphy.gif" height="150" />
 
 ### Technical Arsenal
 
