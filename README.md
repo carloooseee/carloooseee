@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./image.png" width="50%" />
-
-<br />
-
 <img src="https://media1.tenor.com/m/cOhgxKZrGqQAAAAC/zoro-one-piece.gif" height="150" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY214bnBoMHBhdWhud3d5N2I0eHBqYjZsMTIxYmhobmFpbjRjcWV0biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4eTuzu8xIEqdDfPu9J/giphy.gif" height="150" /> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDE4ejBrNmVtNDZpaTc2cW5lOXZxYnVqa2VldHl4d25kZHhqZWYybyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7S5mOq10DXZ4Eg4IDH/giphy.gif" height="150" />
 
 ### Technical Arsenal
